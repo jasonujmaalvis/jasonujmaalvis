@@ -1,10 +1,10 @@
 ### Hello 👋 I'm Jason Ujma-Alvis,
 
-Front End Developer with 9+ years of experience in building a range of websites covering Magento, Progressive Web Apps, Headless CMSs and WordPress. Checkout my side project [Movies](https://movies.jason.codes/) built using VueJS.
+Front End Developer with 9+ years of experience in building a range of websites covering Magento, Progressive Web Apps, Headless CMSs and WordPress. Checkout my side project [Movies PWA](https://movies.jason.codes/) built using VueJS.
 
-I'm really enjoying building sites using a JavaScript tech stack, currently focusing on learning React and GraphQL.
+I'm enjoying building sites using a JavaScript tech stack, currently focusing on learning React and GraphQL.
 
-📫 You can reach me on [Twitter](https://twitter.com/jasonujmaalvis), drop me an [email](mailto:hello@jason.codes) or connect on [LinkedIn](https://www.linkedin.com/in/jason-ujma-alvis).
+You can read my blog posts over at [jason.codes](https://jason.codes) or reach me directly on [Twitter](https://twitter.com/jasonujmaalvis), [email](mailto:hello@jason.codes) or connect on [LinkedIn](https://www.linkedin.com/in/jason-ujma-alvis).
 
 
 
