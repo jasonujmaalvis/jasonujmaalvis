@@ -1,4 +1,4 @@
-### Hello 👋 I'm Jason Ujma-Alvis,
+### Hello 👋 I'm Jason,
 
 Front End Developer with 9+ years of experience in building a range of websites covering Magento, Progressive Web Apps, Headless CMSs and WordPress. Checkout my side project [Movies PWA](https://movies.jason.codes/) built using VueJS.
 
