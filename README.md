@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋 I'm Jason Ujma-Alvis,
+
+Front End Developer with 9+ years of experience in building a range of websites covering Magento, Progressive Web Apps, Headless CMSs and WordPress. Checkout my side project [Movies](https://movies.jason.codes/) built using VueJS.
+
+I'm really enjoying building sites using a JavaScript tech stack, currently focusing on learning React and GraphQL.
+
+📫 You can reach me on [Twitter](https://movies.jason.codes/), drop me an [email](mailto:hello@jason.codes) or connect on [LinkedIn](https://www.linkedin.com/in/jason-ujma-alvis)
+
+
 
 <!--
 **jasonujmaalvis/jasonujmaalvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
