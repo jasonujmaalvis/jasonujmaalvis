@@ -4,7 +4,7 @@ Front End Developer with 9+ years of experience in building a range of websites 
 
 I'm really enjoying building sites using a JavaScript tech stack, currently focusing on learning React and GraphQL.
 
-📫 You can reach me on [Twitter](https://movies.jason.codes/), drop me an [email](mailto:hello@jason.codes) or connect on [LinkedIn](https://www.linkedin.com/in/jason-ujma-alvis)
+📫 You can reach me on [Twitter](https://movies.jason.codes/), drop me an [email](mailto:hello@jason.codes) or connect on [LinkedIn](https://www.linkedin.com/in/jason-ujma-alvis).
 
 
 
