@@ -2,7 +2,7 @@
 
 Front End Developer with 9+ years of experience in building a range of websites covering Magento, Progressive Web Apps, Headless CMSs and WordPress. Checkout my side project [Movies PWA](https://movies.jason.codes/) built using VueJS.
 
-I'm enjoying building sites using a JavaScript tech stack, currently focusing on learning React and GraphQL.
+I'm enjoying using a JavaScript tech stack, currently focusing on learning React and GraphQL.
 
 You can read my blog posts over at [jason.codes](https://jason.codes) or reach me directly on [Twitter](https://twitter.com/jasonujmaalvis), [email](mailto:hello@jason.codes) or connect on [LinkedIn](https://www.linkedin.com/in/jason-ujma-alvis).
 
